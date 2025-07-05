@@ -69,6 +69,35 @@
   </a> 
 </p>
 
+<h3 align="left">🎓 Education Journey:</h3>
+<table align="left">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🎓%20Current-BE%20Computer%20Engineer-blue?style=for-the-badge&logo=graduation-cap" alt="Current Education"/>
+      <br/>
+      <strong>Vidyardhini College Of Engineering And Technology</strong>
+      <br/>
+      <img src="https://img.shields.io/badge/CGPA-8.0-brightgreen?style=flat-square" alt="CGPA"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/📚%20HSC-Higher%20Secondary-orange?style=for-the-badge&logo=book" alt="HSC"/>
+      <br/>
+      <img src="https://img.shields.io/badge/Score-74.50%25-yellow?style=flat-square" alt="HSC Score"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/📖%20SSC-Secondary%20School-red?style=for-the-badge&logo=school" alt="SSC"/>
+      <br/>
+      <img src="https://img.shields.io/badge/Score-83.40%25-green?style=flat-square" alt="SSC Score"/>
+    </td>
+  </tr>
+</table>
+
+<br clear="left"/>
+
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chavan1504&show_icons=true&locale=en&layout=compact" alt="chavan1504" />
 </p>
