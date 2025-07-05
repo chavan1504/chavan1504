@@ -1,3 +1,8 @@
+<!-- GIF at the top -->
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHBsbGpqbWE3aHBuemJ3a21wZ2VqYTdlMDB4N2NpMGVoMnZrMGR6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="welcome-gif" width="100%" style="max-width: 600px;" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Anushka Kailas Chavan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
