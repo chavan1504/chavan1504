@@ -20,7 +20,7 @@
 
 <!-- Animated About Me Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=💻+Frontend+Developer+from+India;🌟+React+%26+JavaScript+Enthusiast;🎨+UI%2FUX+Design+Lover;🚀+Always+Learning+New+Technologies" alt="About Me" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=💻+Frontend+Developer+from+India;🌟+React+%26+JavaScript+Enthusiast;🚀+Always+Learning+New+Technologies" alt="About Me" />
 </div>
 
 <!-- Snake Animation -->
