@@ -20,12 +20,12 @@
 
 <!-- Animated About Me Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=💻+Frontend+Developer+from+India;🌟+React+%26+JavaScript+Enthusiast;🚀+Always+Learning+New+Technologies" alt="About Me" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=💻+Frontend+Developer+from+India;🌟+React+%26+JavaScript+Enthusiast;🎨+UI%2FUX+Design+Lover;🚀+Always+Learning+New+Technologies" alt="About Me" />
 </div>
 
-<!-- Snake Animation -->
+<!-- Animated Divider -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/chavan1504/chavan1504/output/snake.svg" alt="Snake animation" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Line" width="100%"/>
 </div>
 
 <!-- Connect Section with Animated Icons -->
@@ -72,7 +72,7 @@
         <strong>📚 Vidyardhini College Of Engineering And Technology</strong>
         <br><br>
         <img src="https://img.shields.io/badge/CGPA-8.0-4ECDC4?style=flat-square&labelColor=45B7D1" alt="CGPA"/>
-        <img src="https://img.shields.io/badge/Year-2025-FFE66D?style=flat-square&labelColor=FF6B6B" alt="Year"/>
+        <img src="https://img.shields.io/badge/Year-2024-FFE66D?style=flat-square&labelColor=FF6B6B" alt="Year"/>
       </td>
     </tr>
     <tr><td height="20"></td></tr>
