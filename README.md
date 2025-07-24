@@ -105,11 +105,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chavan1504&theme=radical" alt="GitHub Streak"/>
 </div>
 
-<!-- Activity Graph -->
-<h2 align="center">📈 Contribution Graph</h2>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chavan1504&theme=react-dark&bg_color=20232a&hide_border=true" alt="Activity Graph"/>
-</div>
 
 <!-- Trophies Section -->
 <h2 align="center">🏆 GitHub Trophies</h2>
